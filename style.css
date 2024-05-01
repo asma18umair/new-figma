@@ -1,0 +1,26 @@
+.main{
+    background-image: url(./images/image\ 33.png);
+    /* width: 900px;
+    height: 800px; */
+    background-size: cover;
+   
+}
+.navbar{
+    background-image: url(./images/image\ 33.png); 
+    background-size: cover;
+   
+    color:aliceblue !important;
+}
+.head{
+    background: linear-gradient(90deg, #FC00FF 0%, #00DBDE 100%);
+
+}
+.color{
+    color: beige !important;
+}
+@media {(max-width:200px ;)( min-width:500px ;)
+    .main{
+
+    }
+
+}
